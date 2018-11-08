@@ -971,6 +971,11 @@ babel-plugin-rawact@^0.1.0:
     "@babel/core" "^7.1.2"
     "@babel/helper-plugin-utils" "^7.0.0"
 
+babel-plugin-transform-react-remove-prop-types@^0.4.20:
+  version "0.4.20"
+  resolved "https://registry.yarnpkg.com/babel-plugin-transform-react-remove-prop-types/-/babel-plugin-transform-react-remove-prop-types-0.4.20.tgz#688bdea1e27ea0023775dea817fa2d3f8df8802b"
+  integrity sha512-bWQ8e7LsgdFpyHU/RabjDAjVhL7KLAJXEt0nb0LANFje8YAGA8RlZv88a72aCswOxELWULkYuJqfFoKgs58Tng==
+
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
